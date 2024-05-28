@@ -10,7 +10,7 @@ RFM stands for Recency, Frequency, and Monetary value. That means we have to use
 ![image](https://github.com/kieutrangkg1/Customer-Segment-python/assets/168499660/917256ad-364d-4159-bcb8-da9dddc26ce4) 
 
 ## Business Problems
-Rule-based customer segmentation machine learning method with RFM for customer segmentation of K-Means comparison is expected.
+Rule-based customer segmentation machine learning method with RFM for customer segmentation 
 ## About the Dataset
 The dataset named Online Retail II contains a UK-based online sale store's sales between 01/12/2009 - 09/12/2011. We used data from 01/12/2010 - 09/12/2011 years at this project. Because we wanted to use recent data. The product catalog of this company includes souvenirs. The vast majority of the company's customers are corporate customers.
 ## Variables
