@@ -5,6 +5,10 @@ RFM stands for Recency, Frequency, and Monetary value. That means we have to use
 * Recency : The freshness of customer activity. It's the time difference between the last purchase date of the customer and the date of analysis.
 * Frequency : The frequency of the customer transaction, means a total number of transactions.
 * Monetary : Sum of each purchase that has been made by each customer.
+
+### Result: Pareto Chart by Customer Segmentation
+![image](https://github.com/kieutrangkg1/Customer-Segment-python/assets/168499660/917256ad-364d-4159-bcb8-da9dddc26ce4) 
+
 ## Business Problems
 Rule-based customer segmentation machine learning method with RFM for customer segmentation of K-Means comparison is expected.
 ## About the Dataset
@@ -21,5 +25,3 @@ The dataset named Online Retail II contains a UK-based online sale store's sales
 ## Business goal
 We want to segment the Customers based on RFM so that the company can target its customers efficiently. 
 
-### Pareto Chart by Customer Segmentation
-![image](https://github.com/kieutrangkg1/Customer-Segment-python/assets/168499660/917256ad-364d-4159-bcb8-da9dddc26ce4)
